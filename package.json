@@ -1,0 +1,16 @@
+{
+  "name": "neural_network_greater_than_50",
+  "version": "1.0.0",
+  "description": "Train neural network to check if number is greater than 50 or not.",
+  "main": "main.js",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "synaptic": "^1.0.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Jonatas Freitas <jonatasfreitasv@gmail.com>",
+  "license": "ISC"
+}
