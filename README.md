@@ -1,5 +1,5 @@
 # Neural Network number is greater than 50
-Train neural network to check if number is greater than 50 or not.
+Train [Perceptron](https://pt.wikipedia.org/wiki/Perceptron) Neural Network to learn if number is greater than 50 or not.
 
 ### Builded with NodeJS and [Synaptic](http://caza.la/synaptic)
 
