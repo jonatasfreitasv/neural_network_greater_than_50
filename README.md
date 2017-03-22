@@ -5,3 +5,6 @@ Train [Perceptron](https://pt.wikipedia.org/wiki/Perceptron) Neural Network to l
 
 #### Install dependencies and Run
 `npm install && npm start`
+
+#### In execution
+![movie](https://github.com/jonatasfreitasv/neural_network_greater_than_50/blob/master/example.gif)
